@@ -1,7 +1,6 @@
 # Abyss Web
 
 ## Abyss is the best and most modern proxy to avoid modern censorship.
-### discord.gg/goabyss
 
 ## Setup
 ```
